@@ -1,2 +1,5 @@
 # Image-Noise-Reduction
-Image Noise Reduction using OpenCV
+
+![](Figure_1.png)
+
+Image Noise Reduction using OpenCV.
