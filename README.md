@@ -1,5 +1,5 @@
-# Image-Noise-Reduction
+# Video and Image-Noise-Reduction
 
-![](Figure_1.png)
+![](Images/universal_sample.png)
 
-Image Noise Reduction using OpenCV.
+Video and Image Noise Reduction using OpenCV.
